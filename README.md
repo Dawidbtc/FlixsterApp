@@ -21,7 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="https://i.imgur.com/K5x25Ey.mp4" width=250><br>
+<img src="flixster.gif" width=250><br>
 
 ### Notes
 Had some trouble with RecyclerView Adapter
